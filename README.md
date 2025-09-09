@@ -14,8 +14,7 @@ The approach combines:
 
 ## 📂 Repository Structure
 - `report/` → Full thesis (PDF)  
-- `data/` → Example monitoring data (if shareable)  
-- `notebooks/` → Analysis scripts and modeling steps  
+- `scripts/` → Analysis scripts and modeling steps  
 - `figures/` → Key plots and visualizations  
 
 ## 🚀 Main Results
